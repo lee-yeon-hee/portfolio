@@ -820,7 +820,7 @@ document.onclick = function () {
 }
 
 
-var string = "Hi, I'm\u00A0 Lee\u00A0 Yeon\u00A0 Hee_!"; /* type your text here */
+var string = "Hi, Click\u00A0 My\u00A0 Face\u00A0 !"; /* type your text here */
 var array = string.split("");
 var timer;
 
